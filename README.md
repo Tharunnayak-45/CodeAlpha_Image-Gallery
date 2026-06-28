@@ -52,6 +52,7 @@ All
 <img width="1030" height="687" alt="All" src="https://github.com/user-attachments/assets/e4bdd8cf-131e-4357-b952-0e538d7cd78f" />
 
 Photo
+
 <img width="835" height="355" alt="photo" src="https://github.com/user-attachments/assets/f4b58a37-2210-41d6-87f4-6371bcd0dfe0" />
 
  Nature
