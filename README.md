@@ -1,15 +1,12 @@
 # 🖼️ Image Gallery
 
-A responsive and modern **Image Gallery** built using **HTML, CSS, and JavaScript**. This project allows users to browse beautiful images, filter them by category, and enjoy a clean, user-friendly interface.
-Example:
-
-https://github.com/Tharunnayak-45/CodeAlpha_ImageGallery.git
+A Responsive Image Gallery it is a beatiful pictures to explores,using **HTML**,**CSS** ,**JS** which I have developed to see User-Interface.
 
 ---
 
 ## 📸 Preview
 
-![Image Gallery Screenshot]<img width="1030" height="687" alt="All" src="https://github.com/user-attachments/assets/37dd7360-7ed0-4f66-a462-05d68ead918f" />
+<img width="1030" height="687" alt="All" src="https://github.com/user-attachments/assets/3e2e09c4-cf96-43c0-ae4e-8a88df2b25a2" />
 
 ---
 
@@ -49,29 +46,34 @@ CodeAlpha_Image-Gallery/
 ---
 
 ## 🎯 Categories
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- All
-- <img width="1030" height="687" alt="All" src="https://github.com/user-attachments/assets/716d9674-8d86-47ef-ad1c-640fa8ef5927" />
-- Photo
-- <img width="835" height="355" alt="photo" src="https://github.com/user-attachments/assets/73445da1-4c19-412e-8bbd-cea96dd8531b" />
-- Nature
-- <img width="758" height="367" alt="nature" src="https://github.com/user-attachments/assets/b3f7f3d7-5181-4506-b1b5-a1907ed830da" />
-- Animal
-- <img width="830" height="387" alt="animal" src="https://github.com/user-attachments/assets/7c4b696f-ba41-4672-ac2f-3ad2da27bc4b" />
-- Fruit
-- <img width="900" height="357" alt="fruit" src="https://github.com/user-attachments/assets/6c95777e-700f-45de-b305-008603b2a5f9" />
+All
+<img width="1030" height="687" alt="All" src="https://github.com/user-attachments/assets/e4bdd8cf-131e-4357-b952-0e538d7cd78f" />
 
----
+Photo
+<img width="835" height="355" alt="photo" src="https://github.com/user-attachments/assets/f4b58a37-2210-41d6-87f4-6371bcd0dfe0" />
+
+ Nature
+<img width="758" height="367" alt="nature" src="https://github.com/user-attachments/assets/3b85f4c7-f42d-4052-b82c-9403d988210f" />
+
+Animal
+<img width="830" height="387" alt="animal" src="https://github.com/user-attachments/assets/d5078bb8-0214-4d20-b033-39d0ae31652f" />
+
+Fruit
+<img width="900" height="357" alt="fruit" src="https://github.com/user-attachments/assets/1ff052e1-815f-4e29-8695-5c5d1af3840b" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🤝 Internship Task
 
-This project was developed as part of the **CodeAlpha Web Development Internship**.
+This project was developed as part of the **CodeAlpha Frontend-Development Internship**.
 
 ---
 
 ## 📧 Author
 
-**M Tharuntej**
+**Mudavath Tharun**
 
 - GitHub: https://github.com/Tharunnayak-45
 - LinkedIn: https://www.linkedin.com/in/mudavaththarunnayak45/
