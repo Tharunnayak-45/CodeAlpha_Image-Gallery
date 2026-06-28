@@ -1,0 +1,55 @@
+<html>
+
+<head>
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <center>
+        <h1>Image Gallery</h1>
+
+        <p>Explore Beautiful Pictures</p>
+
+        <div class="filter-buttons">
+            <button onclick="filterImages('all')">All</button>
+            <button onclick="filterImages('photo')">Photo</button>
+            <button onclick="filterImages('nature')">Nature</button>
+            <button onclick="filterImages('animal')">Animal</button>
+            <button onclick="filterImages('fruit')">Fruit</button>
+        </div>
+
+        <div class="img-gallery">
+            <img src="images/photo1.jpg" data-category="photo">
+            <img src="images/photo2.jpg" data-category="photo">
+            <img src="images/photo3.jpg" data-category="photo">
+            <img src="images/fruit1.jpg" data-category="fruit">
+            <img src="images/fruit2.jpg" data-category="fruit">
+            <img src="images/fruit3.jpg" data-category="fruit">
+            <img src="images/animal2.jpg" data-category="animal">
+            <img src="images/animal3.jpg" data-category="animal">
+            <img src="images/animal4.jpg" data-category="animal">
+            <img src="images/nature1.jpg" data-category="nature">
+            <img src="images/nature2.jpg" data-category="nature">
+            <img src="images/nature3.jpg" data-category="nature">
+        </div>
+        <div id="lightbox">
+            <span class="close" onclick="closeLightbox()">&times;</span>
+        </div>
+        <script>
+            function filterImages(category) {
+                var images = document.querySelectorAll('.img-gallery img');
+                images.forEach(function (img) {
+                    if (category === 'all') {
+                        img.style.display = 'inline-block';
+                    } else {
+                        img.style.display = img.dataset.category === category ? 'inline-block' : 'none';
+                    }
+                });
+            }
+        </script>
+        <script src="script.js"></script>
+    </center>
+</body>
+
+</html>
