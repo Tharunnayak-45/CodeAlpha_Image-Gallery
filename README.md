@@ -49,20 +49,20 @@ CodeAlpha_Image-Gallery/
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 All
-<img width="1030" height="687" alt="All" src="https://github.com/user-attachments/assets/e4bdd8cf-131e-4357-b952-0e538d7cd78f" />
+<img width="1030" height="687" alt="All" src="https://github.com/user-attachments/assets/e4bdd8cf-131e-4357-b952-0e538d7cd78f"/><br>
 
 Photo
 
-<img width="835" height="355" alt="photo" src="https://github.com/user-attachments/assets/f4b58a37-2210-41d6-87f4-6371bcd0dfe0" />
+<img width="835" height="355" alt="photo" src="https://github.com/user-attachments/assets/f4b58a37-2210-41d6-87f4-6371bcd0dfe0" /><br>
 
  Nature
-<img width="758" height="367" alt="nature" src="https://github.com/user-attachments/assets/3b85f4c7-f42d-4052-b82c-9403d988210f" />
+<img width="758" height="367" alt="nature" src="https://github.com/user-attachments/assets/3b85f4c7-f42d-4052-b82c-9403d988210f" /><br>
 
 Animal
-<img width="830" height="387" alt="animal" src="https://github.com/user-attachments/assets/d5078bb8-0214-4d20-b033-39d0ae31652f" />
+<img width="830" height="387" alt="animal" src="https://github.com/user-attachments/assets/d5078bb8-0214-4d20-b033-39d0ae31652f" /><br>
 
 Fruit
-<img width="900" height="357" alt="fruit" src="https://github.com/user-attachments/assets/1ff052e1-815f-4e29-8695-5c5d1af3840b" />
+<img width="900" height="357" alt="fruit" src="https://github.com/user-attachments/assets/1ff052e1-815f-4e29-8695-5c5d1af3840b" /><br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
