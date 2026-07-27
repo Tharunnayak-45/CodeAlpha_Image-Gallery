@@ -47,22 +47,36 @@ CodeAlpha_Image-Gallery/
 
 ## 🎯 Categories
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📸 Screenshots
 
-All
-<img width="1030" height="687" alt="All" src="https://github.com/user-attachments/assets/e4bdd8cf-131e-4357-b952-0e538d7cd78f"/><br>
+### 🏠 All Images
 
-Photo
+<img width="1030" height="687" alt="All Images" src="https://github.com/user-attachments/assets/e4bdd8cf-131e-4357-b952-0e538d7cd78f" />
 
-<img width="835" height="355" alt="photo" src="https://github.com/user-attachments/assets/f4b58a37-2210-41d6-87f4-6371bcd0dfe0" /><br>
+<br>
 
- Nature
-<img width="758" height="367" alt="nature" src="https://github.com/user-attachments/assets/3b85f4c7-f42d-4052-b82c-9403d988210f" /><br>
+### 📷 Photo Category
 
-Animal
-<img width="830" height="387" alt="animal" src="https://github.com/user-attachments/assets/d5078bb8-0214-4d20-b033-39d0ae31652f" /><br>
+<img width="830" height="355" alt="Photo Category" src="https://github.com/user-attachments/assets/f4b58a37-2210-41d6-87f4-6371bcd0dfe0" />
 
-Fruit
-<img width="900" height="357" alt="fruit" src="https://github.com/user-attachments/assets/1ff052e1-815f-4e29-8695-5c5d1af3840b" /><br>
+<br>
+
+### 🌿 Nature Category
+
+<img width="830" height="367" alt="Nature Category" src="https://github.com/user-attachments/assets/3b85f4c7-f42d-4052-b82c-9403d988210f" />
+
+<br>
+
+### 🐾 Animal Category
+
+<img width="830" height="387" alt="Animal Category" src="https://github.com/user-attachments/assets/d5078bb8-0214-4d20-b033-39d0ae31652f" />
+
+<br>
+
+### 🍎 Fruit Category
+
+<img width="830" height="357" alt="Fruit Category" src="https://github.com/user-attachments/assets/1ff052e1-815f-4e29-8695-5c5d1af3840b" />
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
